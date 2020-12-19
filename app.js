@@ -1,6 +1,6 @@
-var btnTranslate = document.querySelector('btn-translate');
-var inputField = document.querySelector('textIP');
-var OutputField = document.querySelector('textOP');
+var btnTranslate = document.querySelector('#btn-translate');
+var inputField = document.querySelector('#textIP');
+var OutputField = document.querySelector('#textOP');
 
 var Url = "https://api.funtranslations.com/translate/minion.json"
 
